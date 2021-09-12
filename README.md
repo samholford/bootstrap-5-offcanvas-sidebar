@@ -4,5 +4,6 @@ Vanilla bootstrap with minimal additional required js and css
 
 Based on 
 * https://dev.to/codeply/bootstrap-5-sidebar-examples-38pb
+* https://codepen.io/designcouch/pen/Atyop (Animated button)
 * https://getbootstrap.com/docs/5.1/examples/sidebars/
 * https://getbootstrap.com/docs/5.1/components/offcanvas/
